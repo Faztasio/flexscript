@@ -10,6 +10,6 @@ console.log(aVariable);
 ```
 ```javascript
 // vars.fs
-exports aVariable = "Hello!";
+export aVariable = "Hello!";
 ```
 Interested?  Take a look at the specification here: [https://flexscript.gitbook.io/home](Publication).
