@@ -13,3 +13,6 @@ console.log(aVariable);
 export aVariable = "Hello!";
 ```
 Keep up to date with the FLEXScripts; this is currently the latest version.
+
+## Scope
+FLEXScript is provided for any general purpose programming language.
