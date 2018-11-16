@@ -12,4 +12,4 @@ console.log(aVariable);
 // vars.fs
 export aVariable = "Hello!";
 ```
-Interested?  Take a look at the specification.
+Keep up to date with the FLEXScripts; this is currently the latest version.
